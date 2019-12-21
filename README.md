@@ -104,7 +104,7 @@
 
 * Following database schema is designed containing three tables:
 
-![Schema Page](images/welcome.png)
+![Schema Page](images/schema.png)
 
 * department:
 
