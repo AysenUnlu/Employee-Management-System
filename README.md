@@ -38,8 +38,8 @@
 
 ## Usage: ##
 
-  ![Animated Gif](https://drive.google.com/file/d/19g_g-GXjvDCDQgLcPIMvWiLMgmy5ed9k/view)
-  
+  [Animated Gif](https://drive.google.com/file/d/19g_g-GXjvDCDQgLcPIMvWiLMgmy5ed9k/view)
+
    - After running "npm install" and running `schema.sql` and `seed.sql` from the MySQL Workbench, when the user runs `npm start`, he sees a list of query options to choose from and when he chooses, `View Departments`, he will see the list of available departments
 
      ![Welcome Menu](images/viewDepartment.png)
